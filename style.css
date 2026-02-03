@@ -627,7 +627,7 @@ img {
   top: 0;
   bottom: 0;
   width: 2px;
-  background: var(--border-color);
+  background: #000;
 }
 
 .timeline-item {
